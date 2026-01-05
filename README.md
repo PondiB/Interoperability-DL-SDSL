@@ -49,7 +49,7 @@ The original dataset and model code (PyTorch) for crop classification can be fou
 
 1. Clone the repository
 2. See the [onnx-container/](onnx-container) for running the Docker container, including the necessary scripts, and mounting the data by accessing from BreizhCrops.
-3. STAC-ML metadata are documented for each native model.
+3. STAC-ML metadata are documented for each native model, and also Docker images available in Docker Hub: https://hub.docker.com/repositories/sanjushree
 
 ## License
 MIT License.
